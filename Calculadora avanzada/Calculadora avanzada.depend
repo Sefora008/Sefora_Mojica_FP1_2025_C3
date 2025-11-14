@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1763137042 source:c:\users\nmm01\desktop\programación\sefora_mojica_fp1_2025_c3\tarea\tarea 6\calculadora avanzada\calculadora avanzada\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
