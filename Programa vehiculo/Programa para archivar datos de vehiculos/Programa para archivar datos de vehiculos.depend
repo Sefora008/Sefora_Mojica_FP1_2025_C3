@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1765415689 source:c:\users\anastacio giovanny\desktop\la inmaculada concepcion\programación\tarea 8\programa vehiculo\programa para archivar datos de vehiculos\main.c
+	<stdio.h>
+	<string.h>
+
